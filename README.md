@@ -11,9 +11,6 @@ The dashboard automatically fetches historical price data, computes daily return
 
 
 
-
-
-
 ## **Features**
 
 1. **Automatic Data Fetching**  
@@ -35,6 +32,8 @@ The dashboard automatically fetches historical price data, computes daily return
    - **Rolling VaR time series**  
    - **Tail loss highlights**
 
-6. **Exportable Risk Report**  
-   **PDF summary** with plots and statistics.
+## **How To Run**
+**Clone the Repository**
+- **git clone https://github.com/rakshitakedia-lab/VaR-ES-Dashboard.git**
+- **cd VaR-ES-Dashboard**
 
