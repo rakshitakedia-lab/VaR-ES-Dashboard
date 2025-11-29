@@ -33,7 +33,10 @@ The dashboard automatically fetches historical price data, computes daily return
    - **Tail loss highlights**
 
 ## **How To Run**
-**Clone the Repository**
+1. **Clone the Repository**
 - **git clone https://github.com/rakshitakedia-lab/VaR-ES-Dashboard.git**
 - **cd VaR-ES-Dashboard**
+
+2. **Install dependencies**
+- **pip install -r requirements/requirements.txt**
 
